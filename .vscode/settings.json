@@ -1,0 +1,4 @@
+{
+    "go.vetOnSave": "package",
+    "go.installDependenciesWhenBuilding": true
+}
